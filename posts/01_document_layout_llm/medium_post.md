@@ -1,4 +1,4 @@
-# Restoring Layout in Documents Can Improve LLM Accuracy from 85% to 90%
+# Restoring Layout in Documents Can Improve LLM Accuracy from 85% to 97%
 
 When approaching complex structured documents with LLMs, the fundamentals are ensuring
 text quality, defining a chunking strategy, selecting the right model, and designing
